@@ -1,0 +1,40 @@
+h1 {
+  width: 3em;
+  width: 90%;
+}
+
+
+.newStain {
+  height: 12em;
+  width: 90%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.tasc {
+  height: 40em;
+  width: 90%;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  }
+
+.tasc>div{
+  width: 30%;
+  margin-top: 1em;
+  padding: 1%;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.invisible{
+  display: none;
+  width: 1px;
+  height: 1px;
+  background-color: black;
+}
+

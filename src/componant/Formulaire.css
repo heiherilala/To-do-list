@@ -1,0 +1,69 @@
+.topeWrite{
+    display: flex;
+    justify-content:space-between;
+    flex-direction: row;
+    height: 2.5em;
+  }
+  
+  .newStain{
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .whriteInput{
+    width: 75%;
+  }
+  
+  .whriteInput>div{
+    margin: 4px;
+  }
+  
+  .validInpout{
+    width: 10em;
+    height: 10em;
+  }
+  
+  .validInpout button{
+    height: 90%;
+    width: 90%;
+    margin: 5%;
+  }
+  
+  .whriteInput h3{
+    width: 2.7em;
+    text-align: start;
+    font-size:larger;
+    margin-top: 6px;
+  }
+  
+  .rowDiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+  }
+  
+  .botWrite{
+    height: 7em;
+  }
+  
+  .botWrite input{
+    flex: auto;
+  }
+  
+  .writeTopRigth{
+    flex: auto;
+  }
+  
+  .writeTopRigth input{
+    flex: auto;
+  }
+
+  .writeTopLeft{
+    width: 10em;
+    display: flex;
+    justify-content:flex-end;
+  }
+
+  .transparant{
+    color: rgba(250, 235, 215, 0);
+  }
