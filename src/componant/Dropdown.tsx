@@ -25,7 +25,7 @@ const chageDonne:()=> void = ()=>{
         {name}
       </Dropdown.Toggle>
       <Dropdown.Menu>
-        <Dropdown.Item href="#/action-1" onClick={chageTodo}>TO DO</Dropdown.Item>
+        <Dropdown.Item href="#/action-1" onClick={chageTodo}>TO_DO</Dropdown.Item>
         <Dropdown.Item href="#/action-2" onClick={chageDoing}>DOING</Dropdown.Item>
         <Dropdown.Item href="#/action-3" onClick={chageDonne}>DONNE</Dropdown.Item>
       </Dropdown.Menu>
